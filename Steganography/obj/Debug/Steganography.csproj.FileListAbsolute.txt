@@ -1,0 +1,15 @@
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\bin\Debug\Steganography.exe
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\bin\Debug\Steganography.pdb
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\obj\Debug\Steganography.SteganographyForm.resources
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\obj\Debug\Steganography.exe
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\obj\Debug\Steganography.pdb
+F:\University\Current\Информационная безопасность\Лабы\Лр5 Steganography\Steganography\bin\Debug\Steganography.exe
+F:\University\Current\Информационная безопасность\Лабы\Лр5 Steganography\Steganography\bin\Debug\Steganography.pdb
+F:\University\Current\Информационная безопасность\Лабы\Лр5 Steganography\Steganography\obj\Debug\Steganography.csprojAssemblyReference.cache
+F:\University\Current\Информационная безопасность\Лабы\Лр5 Steganography\Steganography\obj\Debug\Steganography.SteganographyForm.resources
+F:\University\Current\Информационная безопасность\Лабы\Лр5 Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.cache
+F:\University\Current\Информационная безопасность\Лабы\Лр5 Steganography\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+F:\University\Current\Информационная безопасность\Лабы\Лр5 Steganography\Steganography\obj\Debug\Steganography.exe
+F:\University\Current\Информационная безопасность\Лабы\Лр5 Steganography\Steganography\obj\Debug\Steganography.pdb

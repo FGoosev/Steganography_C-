@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Steganography">
+</Property><Property Name="Файл решения" Value="C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\Steganography.sln">
+</Property><Property Name="Date" Value="6 ноября 2010 г.">
+</Property><Property Name="Time" Value="6:17">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Steganography.sln" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\Backup\Steganography.sln">
+</Event><Event ErrorLevel="0" Project="Steganography" Source="Steganography.csproj" Description="Успешно создана резервная копия файла проекта: C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\Backup\Steganography.csproj">
+</Event><Event ErrorLevel="0" Project="Steganography" Source="Steganography.csproj.user" Description="Резервная копия проекта успешно создана как C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\Backup\Steganography.csproj.user">
+</Event><Event ErrorLevel="0" Project="Steganography" Source="AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Steganography" Source="Steganography.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\Backup\Steganography.cs">
+</Event><Event ErrorLevel="0" Project="Steganography" Source="App.ico" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Steganography" Source="Steganography.resx" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap2\Steganography\Backup\Steganography.resx">
+</Event><Event ErrorLevel="0" Project="Steganography" Source="Steganography.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Steganography" Source="Steganography.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Steganography.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Steganography.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Steganography" Source="Steganography.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

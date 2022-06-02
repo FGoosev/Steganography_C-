@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steganography", "Steganography.csproj", "{63DC1241-6BD9-4BA3-B621-342C681B7EC6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{63DC1241-6BD9-4BA3-B621-342C681B7EC6}.Debug.ActiveCfg = Debug|.NET
+		{63DC1241-6BD9-4BA3-B621-342C681B7EC6}.Debug.Build.0 = Debug|.NET
+		{63DC1241-6BD9-4BA3-B621-342C681B7EC6}.Release.ActiveCfg = Release|.NET
+		{63DC1241-6BD9-4BA3-B621-342C681B7EC6}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
